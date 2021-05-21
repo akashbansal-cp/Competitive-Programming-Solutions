@@ -1,0 +1,8 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #689 (Div. 2, based on Zed Code Competition)/C. Random Events/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #689 (Div. 2, based on Zed Code Competition)/C. Random Events/Solution.cpp:36:11:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   36 |         }0
+      |           [01;31m[K^[m[K
+      |           [32m[K;[m[K
+   37 | 
+   38 |     [32m[K}[m[K
+      |     [32m[K~[m[K      

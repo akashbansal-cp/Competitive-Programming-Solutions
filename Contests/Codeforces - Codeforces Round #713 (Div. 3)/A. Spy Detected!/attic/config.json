@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #713 (Div. 3)/A. Spy Detected!/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Spy Detected!",
+      "group": "Codeforces - Codeforces Round #713 (Div. 3)",
+      "url": "https://codeforces.com/contest/1512/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

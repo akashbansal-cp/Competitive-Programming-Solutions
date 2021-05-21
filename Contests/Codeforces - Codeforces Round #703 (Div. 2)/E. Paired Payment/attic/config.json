@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #703 (Div. 2)/E. Paired Payment/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Paired Payment",
+      "group": "Codeforces - Codeforces Round #703 (Div. 2)",
+      "url": "https://codeforces.com/contest/1486/problem/E",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

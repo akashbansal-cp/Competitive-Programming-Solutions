@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Alpha Round #20 (Codeforces format)/C. Dijkstra?/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Alpha Round #20 (Codeforces format)/C. Dijkstra?/Solution.cpp:47:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kpreceders[m[K’ was not declared in this scope
+   47 |     if([01;31m[Kpreceders[m[K[n-1]==-1){
+      |        [01;31m[K^~~~~~~~~[m[K

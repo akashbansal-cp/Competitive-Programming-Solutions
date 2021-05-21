@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Challenge 2021 Division 2/Substring Probability/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Substring Probability",
+      "group": "CodeChef - March Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/MARCH21B/problems/SUBPROB",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

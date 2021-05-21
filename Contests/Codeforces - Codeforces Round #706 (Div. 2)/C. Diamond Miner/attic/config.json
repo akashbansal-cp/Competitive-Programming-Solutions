@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #706 (Div. 2)/C. Diamond Miner/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Diamond Miner",
+      "group": "Codeforces - Codeforces Round #706 (Div. 2)",
+      "url": "https://codeforces.com/contest/1496/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #702 (Div. 3)/A. Dense Array/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #702 (Div. 3)/A. Dense Array/Solution.cpp:16:43:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+   16 |             if((double)data[i]/(double)m) [01;31m[K>[m[K 2){
+      |                                           [01;31m[K^[m[K

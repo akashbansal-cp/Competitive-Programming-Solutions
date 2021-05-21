@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #710 (Div. 3)/G. Maximize the Remaining String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Maximize the Remaining String",
+      "group": "Codeforces - Codeforces Round #710 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1506/G",
+      "memoryLimit": 256,
+      "timeLimit": 2500
+    }
+  }
+}

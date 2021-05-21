@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Cook-Off 2021 Division 2/Matrix XOR/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Matrix XOR",
+      "group": "CodeChef - March Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK127B/problems/MATXOR",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}

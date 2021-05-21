@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/AtCoder - AtCoder Regular Contest 115/D - Odd Degree/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Odd Degree",
+      "group": "AtCoder - AtCoder Regular Contest 115",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_d",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

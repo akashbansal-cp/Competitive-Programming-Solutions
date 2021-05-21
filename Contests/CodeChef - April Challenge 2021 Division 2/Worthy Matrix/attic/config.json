@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - April Challenge 2021 Division 2/Worthy Matrix/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Worthy Matrix",
+      "group": "CodeChef - April Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/APRIL21B/problems/KAVGMAT",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #721 (Div. 2)/A. And Then There Were K/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. And Then There Were K",
+      "group": "Codeforces - Codeforces Round #721 (Div. 2)",
+      "url": "https://codeforces.com/contest/1527/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

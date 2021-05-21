@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - Practice(Extcontest)/Knapsack/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Knapsack",
+      "group": "CodeChef - Practice(Extcontest)",
+      "url": "https://www.codechef.com/problems/KNAPSACK",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

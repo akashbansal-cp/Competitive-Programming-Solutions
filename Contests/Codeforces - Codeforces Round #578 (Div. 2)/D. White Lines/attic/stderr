@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #578 (Div. 2)/D. White Lines/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #578 (Div. 2)/D. White Lines/Solution.cpp:87:9:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kint ans[m[K’
+   87 |     int [01;31m[Kans[m[K=0;
+      |         [01;31m[K^~~[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #578 (Div. 2)/D. White Lines/Solution.cpp:44:9:[m[K [01;36m[Knote: [m[K‘[01m[Kint ans[m[K’ previously declared here
+   44 |     int [01;36m[Kans[m[K=0;
+      |         [01;36m[K^~~[m[K

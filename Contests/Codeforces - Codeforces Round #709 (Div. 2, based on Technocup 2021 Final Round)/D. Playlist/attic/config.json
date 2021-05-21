@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #709 (Div. 2, based on Technocup 2021 Final Round)/D. Playlist/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Playlist",
+      "group": "Codeforces - Codeforces Round #709 (Div. 2, based on Technocup 2021 Final Round)",
+      "url": "https://codeforces.com/contest/1484/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

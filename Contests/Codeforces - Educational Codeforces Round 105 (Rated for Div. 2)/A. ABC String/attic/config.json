@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)/A. ABC String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. ABC String",
+      "group": "Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1494/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

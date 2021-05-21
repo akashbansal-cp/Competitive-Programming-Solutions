@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #653 (Div. 3)/C. Move Brackets/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Move Brackets",
+      "group": "Codeforces - Codeforces Round #653 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1374/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

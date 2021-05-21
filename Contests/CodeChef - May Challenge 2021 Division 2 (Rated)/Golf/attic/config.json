@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Golf/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Golf",
+      "group": "CodeChef - May Challenge 2021 Division 2 (Rated)",
+      "url": "https://www.codechef.com/MAY21B/problems/LKDNGOLF",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}

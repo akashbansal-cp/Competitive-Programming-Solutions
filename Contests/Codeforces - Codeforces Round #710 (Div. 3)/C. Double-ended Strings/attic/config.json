@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #710 (Div. 3)/C. Double-ended Strings/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Double-ended Strings",
+      "group": "Codeforces - Codeforces Round #710 (Div. 3)",
+      "url": "https://codeforces.com/contest/1506/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

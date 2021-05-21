@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #698 (Div. 2)/E. Nezzar and Binary String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Nezzar and Binary String",
+      "group": "Codeforces - Codeforces Round #698 (Div. 2)",
+      "url": "https://codeforces.com/contest/1478/problem/E",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

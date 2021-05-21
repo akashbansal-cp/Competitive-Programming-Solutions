@@ -1,0 +1,10 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/D. Armchairs/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/D. Armchairs/Solution.cpp:37:30:[m[K [01;31m[Kerror: [m[Kinvalid type argument of unary ‘[01m[K*[m[K’ (have ‘[01m[Kint[m[K’)
+   37 |             if(e - (*itr) > ([01;31m[K*itr2[m[K) - e){
+      |                              [01;31m[K^~~~~[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/D. Armchairs/Solution.cpp:38:28:[m[K [01;31m[Kerror: [m[Kinvalid type argument of unary ‘[01m[K*[m[K’ (have ‘[01m[Kint[m[K’)
+   38 |                 ans+=(ll)(([01;31m[K*itr2[m[K)-e);
+      |                            [01;31m[K^~~~~[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/D. Armchairs/Solution.cpp:42:30:[m[K [01;31m[Kerror: [m[Kinvalid type argument of unary ‘[01m[K*[m[K’ (have ‘[01m[Kint[m[K’)
+   42 |                 ans+=(ll)(e-([01;31m[K*itr2[m[K));
+      |                              [01;31m[K^~~~~[m[K

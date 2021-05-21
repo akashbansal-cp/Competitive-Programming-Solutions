@@ -1,0 +1,13 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/C. Robot Collisions/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/C. Robot Collisions/Solution.cpp:101:9:[m[K [01;31m[Kerror: [m[Kinvalid use of non-static member function ‘[01m[Kstd::vector<_Tp, _Alloc>::size_type std::vector<_Tp, _Alloc>::size() const [with _Tp = std::vector<int>; _Alloc = std::allocator<std::vector<int> >; std::vector<_Tp, _Alloc>::size_type = long unsigned int][m[K’
+  101 |     [01;31m[Kcout<<odd.size[m[K<<' '<<even.size()<<endl;
+      |     [01;31m[K~~~~^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/10/vector:67[m[K,
+                 from [01m[K/usr/include/c++/10/functional:62[m[K,
+                 from [01m[K/usr/include/c++/10/pstl/glue_algorithm_defs.h:13[m[K,
+                 from [01m[K/usr/include/c++/10/algorithm:74[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:65[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/C. Robot Collisions/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/stl_vector.h:918:7:[m[K [01;36m[Knote: [m[Kdeclared here
+  918 |       [01;36m[Ksize[m[K() const _GLIBCXX_NOEXCEPT
+      |       [01;36m[K^~~~[m[K

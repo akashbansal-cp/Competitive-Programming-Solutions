@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - January Cook-Off 2021 Division 2/Prefix And/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Prefix And",
+      "group": "CodeChef - January Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK126B/problems/ANDPREF",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

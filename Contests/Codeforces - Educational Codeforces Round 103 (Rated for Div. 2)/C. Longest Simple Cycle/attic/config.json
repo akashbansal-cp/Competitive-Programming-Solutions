@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)/C. Longest Simple Cycle/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Longest Simple Cycle",
+      "group": "Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1476/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #720 (Div. 2)/C. Nastia and a Hidden Permutation/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Nastia and a Hidden Permutation",
+      "group": "Codeforces - Codeforces Round #720 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1521/C",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

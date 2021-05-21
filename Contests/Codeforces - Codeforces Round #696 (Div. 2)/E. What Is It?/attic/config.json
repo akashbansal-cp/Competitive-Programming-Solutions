@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #696 (Div. 2)/E. What Is It?/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. What Is It?",
+      "group": "Codeforces - Codeforces Round #696 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1474/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

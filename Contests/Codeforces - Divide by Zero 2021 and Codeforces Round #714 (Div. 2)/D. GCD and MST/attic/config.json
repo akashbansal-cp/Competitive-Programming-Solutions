@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Divide by Zero 2021 and Codeforces Round #714 (Div. 2)/D. GCD and MST/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. GCD and MST",
+      "group": "Codeforces - Divide by Zero 2021 and Codeforces Round #714 (Div. 2)",
+      "url": "https://codeforces.com/contest/1513/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

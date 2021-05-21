@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #653 (Div. 3)/B. Multiply by 2, divide by 6/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Multiply by 2, divide by 6",
+      "group": "Codeforces - Codeforces Round #653 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1374/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)/G. Minimum Difference/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Minimum Difference",
+      "group": "Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1476/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 5000
+    }
+  }
+}

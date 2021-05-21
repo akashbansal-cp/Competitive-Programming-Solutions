@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 14/E. Phoenix and Computers/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Phoenix and Computers",
+      "group": "Codeforces - Codeforces Global Round 14",
+      "url": "https://codeforces.com/contest/1515/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

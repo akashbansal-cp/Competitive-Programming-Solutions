@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #708 (Div. 2)/C2. k-LCM (hard version)/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C2. k-LCM (hard version)",
+      "group": "Codeforces - Codeforces Round #708 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1497/C2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

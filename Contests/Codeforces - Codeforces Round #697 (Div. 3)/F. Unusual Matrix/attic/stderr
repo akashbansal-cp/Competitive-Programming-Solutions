@@ -1,0 +1,5 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #697 (Div. 3)/F. Unusual Matrix/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #697 (Div. 3)/F. Unusual Matrix/Solution.cpp:22:30:[m[K [01;31m[Kerror: [m[K‘[01m[Kmat[m[K’ was not declared in this scope; did you mean ‘[01m[KmatB[m[K’?
+   22 |                 matA[i][j] = [01;31m[Kmat[m[K[i][j] == '0' ? '1' : '0';
+      |                              [01;31m[K^~~[m[K
+      |                              [32m[KmatB[m[K

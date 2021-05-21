@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Cook-Off 2021 Division 2/Chef and Sorting/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Chef and Sorting",
+      "group": "CodeChef - March Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK127B/problems/CHEFSORT",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

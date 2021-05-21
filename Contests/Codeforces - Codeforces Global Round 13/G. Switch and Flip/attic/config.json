@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 13/G. Switch and Flip/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Switch and Flip",
+      "group": "Codeforces - Codeforces Global Round 13",
+      "url": "https://codeforces.com/contest/1491/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

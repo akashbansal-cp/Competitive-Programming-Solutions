@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Lunchtime 2021 Division 2/Binary Game/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Binary Game",
+      "group": "CodeChef - March Lunchtime 2021 Division 2",
+      "url": "https://www.codechef.com/LTIME94B/problems/BINARYGA",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

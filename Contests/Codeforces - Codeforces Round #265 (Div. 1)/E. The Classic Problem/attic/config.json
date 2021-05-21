@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #265 (Div. 1)/E. The Classic Problem/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. The Classic Problem",
+      "group": "Codeforces - Codeforces Round #265 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/464/E",
+      "memoryLimit": 768,
+      "timeLimit": 5000
+    }
+  }
+}

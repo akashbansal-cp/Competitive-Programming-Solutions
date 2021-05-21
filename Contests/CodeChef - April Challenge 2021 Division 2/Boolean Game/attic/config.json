@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - April Challenge 2021 Division 2/Boolean Game/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Boolean Game",
+      "group": "CodeChef - April Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/APRIL21B/problems/BOOLGAME",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

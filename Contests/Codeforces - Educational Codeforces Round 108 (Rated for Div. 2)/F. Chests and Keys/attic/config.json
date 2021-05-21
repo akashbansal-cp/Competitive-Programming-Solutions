@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)/F. Chests and Keys/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Chests and Keys",
+      "group": "Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1519/problem/F",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

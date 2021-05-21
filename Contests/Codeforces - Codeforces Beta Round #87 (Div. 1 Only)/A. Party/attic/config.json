@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Beta Round #87 (Div. 1 Only)/A. Party/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Party",
+      "group": "Codeforces - Codeforces Beta Round #87 (Div. 1 Only)",
+      "url": "https://codeforces.com/problemset/problem/115/A",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/AtCoder - Educational DP Contest/P - Independent Set/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "P - Independent Set",
+      "group": "AtCoder - Educational DP Contest",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_p",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

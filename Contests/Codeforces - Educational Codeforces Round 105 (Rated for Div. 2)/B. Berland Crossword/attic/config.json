@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)/B. Berland Crossword/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Berland Crossword",
+      "group": "Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1494/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

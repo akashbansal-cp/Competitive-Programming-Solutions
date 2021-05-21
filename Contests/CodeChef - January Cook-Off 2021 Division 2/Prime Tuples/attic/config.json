@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - January Cook-Off 2021 Division 2/Prime Tuples/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Prime Tuples",
+      "group": "CodeChef - January Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK126B/problems/PTUPLES",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

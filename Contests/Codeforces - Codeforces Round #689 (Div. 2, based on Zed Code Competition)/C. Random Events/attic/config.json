@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #689 (Div. 2, based on Zed Code Competition)/C. Random Events/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Random Events",
+      "group": "Codeforces - Codeforces Round #689 (Div. 2, based on Zed Code Competition)",
+      "url": "https://codeforces.com/contest/1461/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

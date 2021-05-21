@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #702 (Div. 3)/B. Balanced Remainders/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Balanced Remainders",
+      "group": "Codeforces - Codeforces Round #702 (Div. 3)",
+      "url": "https://codeforces.com/contest/1490/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

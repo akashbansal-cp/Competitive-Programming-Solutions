@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Modular Equation/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Modular Equation/Solution.cpp:29:12:[m[K [01;31m[Kerror: [m[K‘[01m[Ki[m[K’ was not declared in this scope
+   29 |         if([01;31m[Ki[m[K-1 >= 0){
+      |            [01;31m[K^[m[K

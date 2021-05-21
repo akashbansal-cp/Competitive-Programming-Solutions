@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - April Cook-Off 2021 Division 2/OR of ANDs/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "OR of ANDs",
+      "group": "CodeChef - April Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK128B/problems/OROFAND",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

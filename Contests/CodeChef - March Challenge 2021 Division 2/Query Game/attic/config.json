@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Challenge 2021 Division 2/Query Game/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Query Game",
+      "group": "CodeChef - March Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/MARCH21B/problems/QUERGAME",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

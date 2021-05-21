@@ -1,0 +1,183 @@
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kpow(int, int, int)[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;31m[K)[m[K;
+      |                           [01;31m[K^[m[K
+In file included from [01m[K/usr/include/features.h:461[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/os_defines.h:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/c++config.h:522[m[K,
+                 from [01m[K/usr/include/c++/10/cassert:43[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:33[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/x86_64-linux-gnu/bits/mathcalls.h:140:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kdouble pow(double, double)[m[K’
+  140 | [01;36m[K__MATHCALL_VEC[m[K (pow,, (_Mdouble_ __x, _Mdouble_ __y));
+      | [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/x86_64-linux-gnu/bits/mathcalls.h:140:1:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 3 provided
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_Constant, std::_ValArray, _Tp, _Tp>, _Tp> std::pow(const typename std::valarray<_Tp>::value_type&, const std::valarray<_Tp>&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::valarray<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_ValArray, std::_Constant, _Tp, _Tp>, _Tp> std::pow(const std::valarray<_Tp>&, const typename std::valarray<_Tp>::value_type&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::valarray<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_ValArray, std::_ValArray, _Tp, _Tp>, _Tp> std::pow(const std::valarray<_Tp>&, const std::valarray<_Tp>&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::valarray<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Dom> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_Constant, std::_Expr, typename _Dom::value_type, _Dom>, typename _Dom::value_type> std::pow(const typename _Dom::value_type&, const std::_Expr<_Dom1, typename _Dom1::value_type>&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::_Expr<_Dom1, typename _Dom1::value_type>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Dom> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_Expr, std::_Constant, _Dom, typename _Dom::value_type>, typename _Dom::value_type> std::pow(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const typename _Dom::value_type&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::_Expr<_Dom1, typename _Dom1::value_type>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Dom> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_ValArray, std::_Expr, typename _Dom::value_type, _Dom>, typename _Dom::value_type> std::pow(const std::valarray<typename _Dom::valarray>&, const std::_Expr<_Dom1, typename _Dom1::value_type>&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::_Expr<_Dom1, typename _Dom1::value_type>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Dom> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_Expr, std::_ValArray, _Dom, typename _Dom::value_type>, typename _Dom::value_type> std::pow(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const std::valarray<typename _Dom::value_type>&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::_Expr<_Dom1, typename _Dom1::value_type>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/valarray:603[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:95[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Dom1, class _Dom2> std::_Expr<std::__detail::_BinClos<std::_Pow, std::_Expr, std::_Expr, _Dom1, _Dom2>, typename _Dom1::value_type> std::pow(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const std::_Expr<_Dom2, typename _Dom2::value_type>&)[m[K’
+  549 | [01;36m[K_DEFINE_EXPR_BINARY_FUNCTION[m[K(pow, _Pow)
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/10/bits/valarray_after.h:549:1:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::_Expr<_Dom1, typename _Dom1::value_type>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1895:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp, class _Up> std::complex<typename __gnu_cxx::__promote_2<_Tp, _Up>::__type> std::pow(const std::complex<_Tp>&, const std::complex<_Up>&)[m[K’
+ 1895 |     [01;36m[Kpow[m[K(const std::complex<_Tp>& __x, const std::complex<_Up>& __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1895:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1887:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp, class _Up> std::complex<typename __gnu_cxx::__promote_2<_Tp, _Up>::__type> std::pow(const _Tp&, const std::complex<_Up>&)[m[K’
+ 1887 |     [01;36m[Kpow[m[K(const _Tp& __x, const std::complex<_Up>& __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1887:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Up>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1879:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp, class _Up> std::complex<typename __gnu_cxx::__promote_2<_Tp, _Up>::__type> std::pow(const std::complex<_Tp>&, const _Up&)[m[K’
+ 1879 |     [01;36m[Kpow[m[K(const std::complex<_Tp>& __x, const _Up& __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1879:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1072:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::complex<_Tp> std::pow(const _Tp&, const std::complex<_Tp>&)[m[K’
+ 1072 |     [01;36m[Kpow[m[K(const _Tp& __x, const complex<_Tp>& __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1072:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1061:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::complex<_Tp> std::pow(const std::complex<_Tp>&, const std::complex<_Tp>&)[m[K’
+ 1061 |     [01;36m[Kpow[m[K(const complex<_Tp>& __x, const complex<_Tp>& __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1061:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1027:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::complex<_Tp> std::pow(const std::complex<_Tp>&, const _Tp&)[m[K’
+ 1027 |     [01;36m[Kpow[m[K(const complex<_Tp>& __x, const _Tp& __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1027:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/10/ccomplex:39[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:54[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/complex:1018:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> std::complex<_Tp> std::pow(const std::complex<_Tp>&, int)[m[K’
+ 1018 |     [01;36m[Kpow[m[K(const complex<_Tp>& __z, int __n)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/complex:1018:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  mismatched types ‘[01m[Kconst std::complex<_Tp>[m[K’ and ‘[01m[Kint[m[K’
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/cmath:415:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp, class _Up> constexpr typename __gnu_cxx::__promote_2<_Tp, _Up>::__type std::pow(_Tp, _Up)[m[K’
+  415 |     [01;36m[Kpow[m[K(_Tp __x, _Up __y)
+      |     [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/cmath:415:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:14:27:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 3 provided
+   14 |     if(n>1)x=pow(2,n-2,MOD[01;36m[K)[m[K;
+      |                           [01;36m[K^[m[K
+In file included from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41[m[K,
+                 from [01m[K/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Xor Equality/Solution.cpp:8[m[K:
+[01m[K/usr/include/c++/10/cmath:392:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kconstexpr long double std::pow(long double, long double)[m[K’
+  392 |   [01;36m[Kpow[m[K(long double __x, long double __y)
+      |   [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/cmath:392:3:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 3 provided
+[01m[K/usr/include/c++/10/cmath:388:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kconstexpr float std::pow(float, float)[m[K’
+  388 |   [01;36m[Kpow[m[K(float __x, float __y)
+      |   [01;36m[K^~~[m[K
+[01m[K/usr/include/c++/10/cmath:388:3:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 3 provided

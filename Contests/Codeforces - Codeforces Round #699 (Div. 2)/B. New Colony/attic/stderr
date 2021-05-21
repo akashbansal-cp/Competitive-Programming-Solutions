@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #699 (Div. 2)/B. New Colony/Solution.cpp:[m[K In function ‘[01m[Klong long int func(long long int*, long long int, long long int)[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #699 (Div. 2)/B. New Colony/Solution.cpp:20:22:[m[K [01;31m[Kerror: [m[K‘[01m[Kj[m[K’ was not declared in this scope
+   20 |                   if([01;31m[Kj[m[K == n)
+      |                      [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #699 (Div. 2)/B. New Colony/Solution.cpp:28:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   28 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

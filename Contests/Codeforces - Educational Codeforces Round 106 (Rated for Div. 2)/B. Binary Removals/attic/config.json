@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 106 (Rated for Div. 2)/B. Binary Removals/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Binary Removals",
+      "group": "Codeforces - Educational Codeforces Round 106 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1499/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2)/D. Explorer Space/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2)/D. Explorer Space/Solution.cpp:36:59:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kif[m[K’
+   36 |                 if(x>0) p=min(p,2*ver[x-1][y]+ans[x-1][y])
+      |                                                           [01;31m[K^[m[K
+      |                                                           [32m[K;[m[K
+   37 |                 [32m[Kif[m[K(y>0) p=min(p,2*hor[x][y-1]+ans[x][y-1]);
+      |                 [32m[K~~[m[K                                         

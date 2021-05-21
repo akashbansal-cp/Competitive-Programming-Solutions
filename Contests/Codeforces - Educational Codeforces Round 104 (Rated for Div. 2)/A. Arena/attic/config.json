@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 104 (Rated for Div. 2)/A. Arena/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Arena",
+      "group": "Codeforces - Educational Codeforces Round 104 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1487/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

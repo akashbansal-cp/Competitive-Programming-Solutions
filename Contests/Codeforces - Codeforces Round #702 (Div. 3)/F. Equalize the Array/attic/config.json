@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #702 (Div. 3)/F. Equalize the Array/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Equalize the Array",
+      "group": "Codeforces - Codeforces Round #702 (Div. 3)",
+      "url": "https://codeforces.com/contest/1490/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

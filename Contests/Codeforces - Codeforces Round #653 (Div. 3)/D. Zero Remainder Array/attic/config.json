@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #653 (Div. 3)/D. Zero Remainder Array/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Zero Remainder Array",
+      "group": "Codeforces - Codeforces Round #653 (Div. 3)",
+      "url": "https://codeforces.com/contest/1374/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - April Challenge 2021 Division 2/Destroy the EMP Chip/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Destroy the EMP Chip",
+      "group": "CodeChef - April Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/APRIL21B/problems/CHAOSEMP",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

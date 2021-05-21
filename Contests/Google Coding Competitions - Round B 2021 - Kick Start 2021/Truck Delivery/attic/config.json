@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Google Coding Competitions - Round B 2021 - Kick Start 2021/Truck Delivery/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Truck Delivery",
+      "group": "Google Coding Competitions - Round B 2021 - Kick Start 2021",
+      "url": "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a885",
+      "memoryLimit": 1024,
+      "timeLimit": 20000
+    }
+  }
+}

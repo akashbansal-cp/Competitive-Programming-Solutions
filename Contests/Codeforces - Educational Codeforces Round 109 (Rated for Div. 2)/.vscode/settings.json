@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "editor.fontFamily": "Fira Code",
+        "editor.fontLigatures": true
+    },
+    "editor.fontLigatures": null
+}

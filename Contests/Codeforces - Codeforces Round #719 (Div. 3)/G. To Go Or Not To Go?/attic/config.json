@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #719 (Div. 3)/G. To Go Or Not To Go?/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. To Go Or Not To Go?",
+      "group": "Codeforces - Codeforces Round #719 (Div. 3)",
+      "url": "https://codeforces.com/contest/1520/problem/G",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

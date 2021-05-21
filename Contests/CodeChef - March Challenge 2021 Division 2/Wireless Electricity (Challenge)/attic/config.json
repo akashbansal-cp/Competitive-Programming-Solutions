@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Challenge 2021 Division 2/Wireless Electricity (Challenge)/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Wireless Electricity (Challenge)",
+      "group": "CodeChef - March Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/MARCH21B/problems/WIREL",
+      "memoryLimit": 256,
+      "timeLimit": 5000
+    }
+  }
+}

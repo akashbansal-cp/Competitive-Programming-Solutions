@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/AtCoder - AtCoder Regular Contest 115/C - ℕ Coloring/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C - ℕ Coloring",
+      "group": "AtCoder - AtCoder Regular Contest 115",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_c",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)/D. Journey/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Journey",
+      "group": "Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1476/problem/D",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

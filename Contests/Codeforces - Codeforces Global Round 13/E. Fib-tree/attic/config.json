@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 13/E. Fib-tree/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Fib-tree",
+      "group": "Codeforces - Codeforces Global Round 13",
+      "url": "https://codeforces.com/contest/1491/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

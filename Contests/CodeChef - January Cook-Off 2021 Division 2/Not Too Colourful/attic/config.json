@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - January Cook-Off 2021 Division 2/Not Too Colourful/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Not Too Colourful",
+      "group": "CodeChef - January Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK126B/problems/NTCOL",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

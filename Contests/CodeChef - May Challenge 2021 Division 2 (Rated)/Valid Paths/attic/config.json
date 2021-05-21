@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - May Challenge 2021 Division 2 (Rated)/Valid Paths/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Valid Paths",
+      "group": "CodeChef - May Challenge 2021 Division 2 (Rated)",
+      "url": "https://www.codechef.com/MAY21B/problems/VPATH",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

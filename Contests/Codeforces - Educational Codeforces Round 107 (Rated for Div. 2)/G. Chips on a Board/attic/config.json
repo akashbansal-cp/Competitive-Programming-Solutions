@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)/G. Chips on a Board/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Chips on a Board",
+      "group": "Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1511/problem/G",
+      "memoryLimit": 512,
+      "timeLimit": 5000
+    }
+  }
+}

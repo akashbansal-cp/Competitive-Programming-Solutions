@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Challenge 2021 Division 2/College Life 4/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "College Life 4",
+      "group": "CodeChef - March Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/MARCH21B/problems/COLGLF4",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Google Coding Competitions - Round B 2021 - Kick Start 2021/Consecutive Primes/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Consecutive Primes",
+      "group": "Google Coding Competitions - Round B 2021 - Kick Start 2021",
+      "url": "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a8e6",
+      "memoryLimit": 1024,
+      "timeLimit": 15000
+    }
+  }
+}

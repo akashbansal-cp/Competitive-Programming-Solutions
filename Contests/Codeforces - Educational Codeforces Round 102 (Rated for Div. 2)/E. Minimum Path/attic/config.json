@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 102 (Rated for Div. 2)/E. Minimum Path/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Minimum Path",
+      "group": "Codeforces - Educational Codeforces Round 102 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1473/E",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Cook-Off 2021 Division 2/Sort String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Sort String",
+      "group": "CodeChef - March Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK127B/problems/STRKSORT",
+      "memoryLimit": 256,
+      "timeLimit": 750
+    }
+  }
+}

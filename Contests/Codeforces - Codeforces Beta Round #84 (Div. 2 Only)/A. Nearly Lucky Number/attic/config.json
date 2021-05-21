@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Beta Round #84 (Div. 2 Only)/A. Nearly Lucky Number/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Nearly Lucky Number",
+      "group": "Codeforces - Codeforces Beta Round #84 (Div. 2 Only)",
+      "url": "https://codeforces.com/problemset/problem/110/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

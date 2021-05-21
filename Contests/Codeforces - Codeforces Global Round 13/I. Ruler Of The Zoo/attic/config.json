@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 13/I. Ruler Of The Zoo/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "I. Ruler Of The Zoo",
+      "group": "Codeforces - Codeforces Global Round 13",
+      "url": "https://codeforces.com/contest/1491/problem/I",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

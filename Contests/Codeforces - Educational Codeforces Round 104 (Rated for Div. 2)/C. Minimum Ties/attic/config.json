@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 104 (Rated for Div. 2)/C. Minimum Ties/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Minimum Ties",
+      "group": "Codeforces - Educational Codeforces Round 104 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1487/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

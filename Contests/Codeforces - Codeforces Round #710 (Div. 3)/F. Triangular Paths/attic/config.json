@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #710 (Div. 3)/F. Triangular Paths/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Triangular Paths",
+      "group": "Codeforces - Codeforces Round #710 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1506/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Beta Round #26 (Codeforces format)/A. Almost Prime/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Almost Prime",
+      "group": "Codeforces - Codeforces Beta Round #26 (Codeforces format)",
+      "url": "https://codeforces.com/problemset/problem/26/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

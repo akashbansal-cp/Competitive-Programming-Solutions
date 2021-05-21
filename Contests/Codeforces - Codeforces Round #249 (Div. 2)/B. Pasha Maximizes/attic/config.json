@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #249 (Div. 2)/B. Pasha Maximizes/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Pasha Maximizes",
+      "group": "Codeforces - Codeforces Round #249 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/435/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

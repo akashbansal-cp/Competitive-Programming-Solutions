@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - April Fools Day Contest 2021/E. Cakewalk/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Cakewalk",
+      "group": "Codeforces - April Fools Day Contest 2021",
+      "url": "https://codeforces.com/contest/1505/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

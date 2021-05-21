@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #708 (Div. 2)/D. Genius/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Genius",
+      "group": "Codeforces - Codeforces Round #708 (Div. 2)",
+      "url": "https://codeforces.com/contest/1497/problem/D",
+      "memoryLimit": 32,
+      "timeLimit": 2000
+    }
+  }
+}

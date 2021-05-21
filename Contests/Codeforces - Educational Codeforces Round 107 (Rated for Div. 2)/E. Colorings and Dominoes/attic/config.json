@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)/E. Colorings and Dominoes/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Colorings and Dominoes",
+      "group": "Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1511/problem/E",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

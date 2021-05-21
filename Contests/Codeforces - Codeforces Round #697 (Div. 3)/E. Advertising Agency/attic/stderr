@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #697 (Div. 3)/E. Advertising Agency/Solution.cpp:[m[K In function ‘[01m[Kint NCR(int, int)[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #697 (Div. 3)/E. Advertising Agency/Solution.cpp:15:9:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kint m[m[K’
+   15 |     int [01;31m[Km[m[K = ncr[i-1][j-1] == -1 ? NCR(i-1,j-1) : ncr[i-1][j-1];
+      |         [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #697 (Div. 3)/E. Advertising Agency/Solution.cpp:6:9:[m[K [01;36m[Knote: [m[K‘[01m[Kint m[m[K’ previously declared here
+    6 |     int [01;36m[Km[m[K;
+      |         [01;36m[K^[m[K

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)/D. Bananas in a Microwave/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Bananas in a Microwave",
+      "group": "Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1498/D",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

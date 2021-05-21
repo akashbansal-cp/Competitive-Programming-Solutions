@@ -1,0 +1,8 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - April Fools Day Contest 2021/A. Is it rated - 2/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - April Fools Day Contest 2021/A. Is it rated - 2/Solution.cpp:11:20:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K{[m[K’ token
+   11 |         else if(s==[01;31m[K{[m[K}) break;
+      |                    [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - April Fools Day Contest 2021/A. Is it rated - 2/Solution.cpp:11:20:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K{[m[K’ token
+   11 |         else if[34m[K([m[Ks==[01;31m[K{[m[K}) break;
+      |                [34m[K~[m[K   [01;31m[K^[m[K
+      |                    [32m[K)[m[K

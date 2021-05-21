@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/F. Goblins And Gnomes/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Goblins And Gnomes",
+      "group": "Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1525/problem/F",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

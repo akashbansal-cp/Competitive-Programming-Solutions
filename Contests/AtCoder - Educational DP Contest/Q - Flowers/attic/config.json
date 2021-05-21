@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/AtCoder - Educational DP Contest/Q - Flowers/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Q - Flowers",
+      "group": "AtCoder - Educational DP Contest",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_q",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

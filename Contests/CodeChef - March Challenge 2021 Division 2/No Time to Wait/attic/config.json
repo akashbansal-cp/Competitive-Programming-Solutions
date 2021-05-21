@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Challenge 2021 Division 2/No Time to Wait/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "No Time to Wait",
+      "group": "CodeChef - March Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/MARCH21B/problems/NOTIME",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

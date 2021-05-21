@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Cook-Off 2021 Division 2/Guess the Number/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Guess the Number",
+      "group": "CodeChef - March Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK127B/problems/GUESSIT",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

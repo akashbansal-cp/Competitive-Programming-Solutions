@@ -1,0 +1,13 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #712 (Div. 2)/C. Balance the Bits/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #712 (Div. 2)/C. Balance the Bits/Solution.cpp:26:9:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kint p[m[K’
+   26 |     int [01;31m[Kp[m[K=0,q=0;
+      |         [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #712 (Div. 2)/C. Balance the Bits/Solution.cpp:10:9:[m[K [01;36m[Knote: [m[K‘[01m[Kint p[m[K’ previously declared here
+   10 |     int [01;36m[Kp[m[K=0;
+      |         [01;36m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #712 (Div. 2)/C. Balance the Bits/Solution.cpp:26:13:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kint q[m[K’
+   26 |     int p=0,[01;31m[Kq[m[K=0;
+      |             [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #712 (Div. 2)/C. Balance the Bits/Solution.cpp:15:9:[m[K [01;36m[Knote: [m[K‘[01m[Kint q[m[K’ previously declared here
+   15 |     int [01;36m[Kq[m[K=0;
+      |         [01;36m[K^[m[K

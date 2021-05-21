@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Mail.Ru Cup 2018 Round 2/A. Metro/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Metro",
+      "group": "Codeforces - Mail.Ru Cup 2018 Round 2",
+      "url": "https://codeforces.com/problemset/problem/1055/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

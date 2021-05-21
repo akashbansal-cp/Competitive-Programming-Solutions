@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - April Fools Day Contest 2021/I. Mysterious language again, seriously?/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "I. Mysterious language again, seriously?",
+      "group": "Codeforces - April Fools Day Contest 2021",
+      "url": "https://codeforces.com/contest/1505/problem/I",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

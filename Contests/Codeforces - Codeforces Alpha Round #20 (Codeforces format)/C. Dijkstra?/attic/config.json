@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Alpha Round #20 (Codeforces format)/C. Dijkstra?/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Dijkstra?",
+      "group": "Codeforces - Codeforces Alpha Round #20 (Codeforces format)",
+      "url": "https://codeforces.com/problemset/problem/20/C",
+      "memoryLimit": 64,
+      "timeLimit": 1000
+    }
+  }
+}

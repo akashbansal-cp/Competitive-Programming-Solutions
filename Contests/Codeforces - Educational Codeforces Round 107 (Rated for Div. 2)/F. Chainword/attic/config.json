@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)/F. Chainword/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Chainword",
+      "group": "Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1511/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

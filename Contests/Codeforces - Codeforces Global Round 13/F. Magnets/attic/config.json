@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 13/F. Magnets/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Magnets",
+      "group": "Codeforces - Codeforces Global Round 13",
+      "url": "https://codeforces.com/contest/1491/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

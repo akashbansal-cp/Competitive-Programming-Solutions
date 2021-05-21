@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)/A. K-divisible Sum/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. K-divisible Sum",
+      "group": "Codeforces - Educational Codeforces Round 103 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1476/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

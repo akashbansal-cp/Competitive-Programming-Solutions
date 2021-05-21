@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)/B. GCD Length/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)/B. GCD Length/Solution.cpp:25:19:[m[K [01;35m[Kwarning: [m[Kpointer to a function used in arithmetic [[01;35m[K-Wpointer-arith[m[K]
+   25 |     while(digits[y[01;35m[K][m[K!=b)y*=3;
+      |                   [01;35m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 107 (Rated for Div. 2)/B. GCD Length/Solution.cpp:25:22:[m[K [01;31m[Kerror: [m[KISO C++ forbids comparison between pointer and integer [[01;31m[K-fpermissive[m[K]
+   25 |     while(digits[y]!=[01;31m[Kb[m[K)y*=3;
+      |                      [01;31m[K^[m[K

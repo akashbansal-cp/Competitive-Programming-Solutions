@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #719 (Div. 3)/E. Arranging The Sheep/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #719 (Div. 3)/E. Arranging The Sheep/Solution.cpp:51:16:[m[K [01;31m[Kerror: [m[Kinvalid types ‘[01m[K<unresolved overloaded function type>[int][m[K’ for array subscript
+   51 |         if(data[01;31m[K[[m[Ki]!='*'){
+      |                [01;31m[K^[m[K

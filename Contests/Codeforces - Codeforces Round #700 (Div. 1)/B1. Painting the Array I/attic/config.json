@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #700 (Div. 1)/B1. Painting the Array I/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B1. Painting the Array I",
+      "group": "Codeforces - Codeforces Round #700 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1479/B1",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

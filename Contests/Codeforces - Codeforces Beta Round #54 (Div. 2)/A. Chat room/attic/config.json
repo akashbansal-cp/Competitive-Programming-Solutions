@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codeforces/Codeforces - Codeforces Beta Round #54 (Div. 2)/A. Chat room/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Chat room",
+      "group": "Codeforces - Codeforces Beta Round #54 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/58/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

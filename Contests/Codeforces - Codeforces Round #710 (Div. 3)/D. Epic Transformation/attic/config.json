@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #710 (Div. 3)/D. Epic Transformation/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Epic Transformation",
+      "group": "Codeforces - Codeforces Round #710 (Div. 3)",
+      "url": "https://codeforces.com/contest/1506/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

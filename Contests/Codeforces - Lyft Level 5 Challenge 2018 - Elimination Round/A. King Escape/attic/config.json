@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Lyft Level 5 Challenge 2018 - Elimination Round/A. King Escape/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. King Escape",
+      "group": "Codeforces - Lyft Level 5 Challenge 2018 - Elimination Round",
+      "url": "https://codeforces.com/problemset/problem/1033/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

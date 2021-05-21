@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #470 (rated, Div. 2, based on VK Cup 2018 Round 1)/A. Protect Sheep/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Protect Sheep",
+      "group": "Codeforces - Codeforces Round #470 (rated, Div. 2, based on VK Cup 2018 Round 1)",
+      "url": "https://codeforces.com/problemset/problem/948/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

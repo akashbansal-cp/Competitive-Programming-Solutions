@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #464 (Div. 2)/A. Love Triangle/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Love Triangle",
+      "group": "Codeforces - Codeforces Round #464 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/939/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

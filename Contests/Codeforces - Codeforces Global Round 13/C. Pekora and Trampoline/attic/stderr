@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 13/C. Pekora and Trampoline/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 13/C. Pekora and Trampoline/Solution.cpp:54:16:[m[K [01;31m[Kerror: [m[K‘[01m[Ki[m[K’ was not declared in this scope
+   54 |     ans+=value[[01;31m[Ki[m[K];
+      |                [01;31m[K^[m[K

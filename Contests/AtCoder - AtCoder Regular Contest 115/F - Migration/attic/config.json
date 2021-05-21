@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/AtCoder - AtCoder Regular Contest 115/F - Migration/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F - Migration",
+      "group": "AtCoder - AtCoder Regular Contest 115",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_f",
+      "memoryLimit": 1024,
+      "timeLimit": 4000
+    }
+  }
+}

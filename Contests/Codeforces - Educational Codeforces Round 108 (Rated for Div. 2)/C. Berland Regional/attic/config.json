@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)/C. Berland Regional/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Berland Regional",
+      "group": "Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1519/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

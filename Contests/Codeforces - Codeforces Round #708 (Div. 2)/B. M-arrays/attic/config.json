@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #708 (Div. 2)/B. M-arrays/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. M-arrays",
+      "group": "Codeforces - Codeforces Round #708 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1497/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Lunchtime 2021 Division 2/Node Codon/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Node Codon",
+      "group": "CodeChef - March Lunchtime 2021 Division 2",
+      "url": "https://www.codechef.com/LTIME94B/problems/CODON",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

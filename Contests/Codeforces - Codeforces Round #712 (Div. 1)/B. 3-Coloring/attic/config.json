@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #712 (Div. 1)/B. 3-Coloring/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. 3-Coloring",
+      "group": "Codeforces - Codeforces Round #712 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1503/B",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

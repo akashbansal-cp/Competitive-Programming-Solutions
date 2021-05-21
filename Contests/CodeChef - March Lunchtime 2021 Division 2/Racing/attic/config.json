@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Lunchtime 2021 Division 2/Racing/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Racing",
+      "group": "CodeChef - March Lunchtime 2021 Division 2",
+      "url": "https://www.codechef.com/LTIME94B/problems/RACINGEN",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

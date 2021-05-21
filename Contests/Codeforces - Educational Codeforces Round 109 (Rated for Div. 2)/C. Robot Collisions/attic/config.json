@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)/C. Robot Collisions/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Robot Collisions",
+      "group": "Codeforces - Educational Codeforces Round 109 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1525/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

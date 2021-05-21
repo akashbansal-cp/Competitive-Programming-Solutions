@@ -1,0 +1,15 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)/D. Bananas in a Microwave/Solution.cpp:46:5:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kfor[m[K’
+   46 |     [01;31m[Kfor[m[K(int i=1;i<m+1;++i)cout<<tstamp[i]<<' ';
+      |     [01;31m[K^~~[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)/D. Bananas in a Microwave/Solution.cpp:46:17:[m[K [01;31m[Kerror: [m[K‘[01m[Ki[m[K’ does not name a type
+   46 |     for(int i=1;[01;31m[Ki[m[K<m+1;++i)cout<<tstamp[i]<<' ';
+      |                 [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)/D. Bananas in a Microwave/Solution.cpp:46:23:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K++[m[K’ token
+   46 |     for(int i=1;i<m+1;[01;31m[K++[m[Ki)cout<<tstamp[i]<<' ';
+      |                       [01;31m[K^~[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)/D. Bananas in a Microwave/Solution.cpp:47:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kcout[m[K’ does not name a type
+   47 |     [01;31m[Kcout[m[K<<endl;
+      |     [01;31m[K^~~~[m[K
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - CodeCraft-21 and Codeforces Round #711 (Div. 2)/D. Bananas in a Microwave/Solution.cpp:48:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+   48 | [01;31m[K}[m[K
+      | [01;31m[K^[m[K

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/AtCoder - Educational DP Contest/W - Intervals/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "W - Intervals",
+      "group": "AtCoder - Educational DP Contest",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_w",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

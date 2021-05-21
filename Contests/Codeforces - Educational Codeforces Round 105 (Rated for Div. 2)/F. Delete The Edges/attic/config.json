@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)/F. Delete The Edges/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Delete The Edges",
+      "group": "Codeforces - Educational Codeforces Round 105 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1494/problem/F",
+      "memoryLimit": 512,
+      "timeLimit": 8000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #705 (Div. 2)/F. Enchanted Matrix/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Enchanted Matrix",
+      "group": "Codeforces - Codeforces Round #705 (Div. 2)",
+      "url": "https://codeforces.com/contest/1493/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

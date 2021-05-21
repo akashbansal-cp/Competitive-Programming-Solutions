@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 14/A. Phoenix and Gold/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Global Round 14/A. Phoenix and Gold/Solution.cpp:35:16:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   35 |             z=e
+      |                [01;31m[K^[m[K
+      |                [32m[K;[m[K
+   36 |         [32m[K}[m[K;
+      |         [32m[K~[m[K       

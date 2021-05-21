@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #706 (Div. 2)/E. Garden of the Sun/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Garden of the Sun",
+      "group": "Codeforces - Codeforces Round #706 (Div. 2)",
+      "url": "https://codeforces.com/contest/1496/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

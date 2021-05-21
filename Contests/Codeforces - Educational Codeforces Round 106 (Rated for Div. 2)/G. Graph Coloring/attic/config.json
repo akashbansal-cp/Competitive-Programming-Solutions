@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 106 (Rated for Div. 2)/G. Graph Coloring/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Graph Coloring",
+      "group": "Codeforces - Educational Codeforces Round 106 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1499/problem/G",
+      "memoryLimit": 1024,
+      "timeLimit": 7000
+    }
+  }
+}

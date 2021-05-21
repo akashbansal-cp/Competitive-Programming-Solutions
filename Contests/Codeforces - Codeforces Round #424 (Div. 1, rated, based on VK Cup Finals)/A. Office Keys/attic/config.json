@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)/A. Office Keys/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Office Keys",
+      "group": "Codeforces - Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)",
+      "url": "https://codeforces.com/contest/830/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

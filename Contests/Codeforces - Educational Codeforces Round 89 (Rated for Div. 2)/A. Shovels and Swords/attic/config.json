@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Educational Codeforces Round 89 (Rated for Div. 2)/A. Shovels and Swords/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Shovels and Swords",
+      "group": "Codeforces - Educational Codeforces Round 89 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1366/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

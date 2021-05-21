@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Cook-Off 2021 Division 2/Consecutive Deletions/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Consecutive Deletions",
+      "group": "CodeChef - March Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK127B/problems/CONDEL",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

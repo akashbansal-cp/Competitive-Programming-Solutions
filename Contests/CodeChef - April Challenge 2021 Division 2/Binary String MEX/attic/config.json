@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - April Challenge 2021 Division 2/Binary String MEX/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Binary String MEX",
+      "group": "CodeChef - April Challenge 2021 Division 2",
+      "url": "https://www.codechef.com/APRIL21B/problems/MEXSTR",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

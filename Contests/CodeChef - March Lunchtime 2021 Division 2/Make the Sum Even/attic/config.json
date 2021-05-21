@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Codechef/CodeChef - March Lunchtime 2021 Division 2/Make the Sum Even/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Make the Sum Even",
+      "group": "CodeChef - March Lunchtime 2021 Division 2",
+      "url": "https://www.codechef.com/LTIME94B/problems/MKSMEVN",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}
