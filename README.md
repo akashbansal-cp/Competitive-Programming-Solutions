@@ -1,0 +1,1 @@
+This following Repository contains all my solutions to any CP contest I have given on Major CP plateforms (Codechef and Codeforces) and some other like Kickstart.
