@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Google Coding Competitions - Round C 2021 - Kick Start 2021/Smaller Strings/CP_Template.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Smaller Strings",
+      "group": "Google Coding Competitions - Round C 2021 - Kick Start 2021",
+      "url": "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435c44/00000000007ebe5e",
+      "memoryLimit": 1024,
+      "timeLimit": 20000
+    }
+  }
+}

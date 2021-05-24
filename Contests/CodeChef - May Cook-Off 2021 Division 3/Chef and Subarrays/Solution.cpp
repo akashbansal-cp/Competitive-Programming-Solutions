@@ -9,29 +9,23 @@
 using namespace std;
 void solve()
 {
-    int n;
-    cin>>n;
+    int ans=0;
+    int n,k;
+    cin>>n>>k;
     vector<int> data(n);
     for(int i=0;i<n;++i)cin>>data[i];
-    map<int,vector<int>> mp;
-    for(int i=0;i<n;++i){
-        mp[data[i]].push_back(i+1);
-    }
-    vector<int> slv;
-    vector<int> sz;
-    ll ans=0;
-    for(auto e:mp){
-        slv=e.second;
-        sz.resize(slv.size());
-        ll p=0;
-        for(int i=slv.size()-1;i>=0;--i){
-            sz[i]=n-slv[i]+1;
-            p+=sz[i];
+    for(int i=0;i<k;++i){
+        map<int,int> d;
+        for(int j=i;j<n;j+=k){
+            d[data[j]]++;
         }
-        for(int i=0;i<slv.size();++i){
-            p-=sz[i];
-            ans+=(p*slv[i]);
+        int s=0;
+        int m=0;
+        for(auto e:d){
+            s+=e.second;
+            m=max(m,e.second);
         }
+        ans+=(s-m);
     }
     cout<<ans<<endl;
 }
@@ -39,7 +33,7 @@ int main()
 {
     fio
     int t;
-    cin>>t;
+    cin >> t;
     while (t--)
         solve();
     return 0;

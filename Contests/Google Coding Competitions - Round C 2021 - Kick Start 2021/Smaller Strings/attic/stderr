@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Contests/Google Coding Competitions - Round C 2021 - Kick Start 2021/Smaller Strings/CP_Template.cpp:[m[K In function ‘[01m[Kvoid solve(int)[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Google Coding Competitions - Round C 2021 - Kick Start 2021/Smaller Strings/CP_Template.cpp:21:8:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Klong long int ans[m[K’
+   21 |     ll [01;31m[Kans[m[K=0;
+      |        [01;31m[K^~~[m[K
+[01m[K/home/akash/Documents/CP/Contests/Google Coding Competitions - Round C 2021 - Kick Start 2021/Smaller Strings/CP_Template.cpp:17:8:[m[K [01;36m[Knote: [m[K‘[01m[Klong long int ans[m[K’ previously declared here
+   17 |     ll [01;36m[Kans[m[K=0;
+      |        [01;36m[K^~~[m[K

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - May Cook-Off 2021 Division 3/Falling Zero/CP_Template.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Falling Zero",
+      "group": "CodeChef - May Cook-Off 2021 Division 3",
+      "url": "https://www.codechef.com/COOK129C/problems/FLGZRO",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
