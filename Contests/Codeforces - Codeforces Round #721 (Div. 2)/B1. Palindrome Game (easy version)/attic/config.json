@@ -1,6 +1,6 @@
 {
   "mainSolution": {
-    "value": "/home/akash/Documents/CP/Codechef/Codeforces - Codeforces Round #721 (Div. 2)/B1. Palindrome Game (easy version)/Solution.cpp"
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #721 (Div. 2)/B1. Palindrome Game (easy version)/Solution.cpp"
   },
   "bruteSolution": {},
   "generator": {},
@@ -9,7 +9,7 @@
     "value": {
       "name": "B1. Palindrome Game (easy version)",
       "group": "Codeforces - Codeforces Round #721 (Div. 2)",
-      "url": "https://codeforces.com/contest/1527/problem/B1",
+      "url": "https://codeforces.com/problemset/problem/1527/B1",
       "memoryLimit": 256,
       "timeLimit": 1000
     }

@@ -9,30 +9,19 @@
 using namespace std;
 void solve()
 {
-    int n;
+    int n;cin>>n;
     string s;
-    cin>>n>>s;
+    cin>>s;
     int x=0;
     for(char c:s){
         if(c=='0')++x;
     }
-    int a=0;
-    if(x%2==1){
-        a++;
-        x--;
-    }
-    x/=2;
-    if(a==0 && x%2==0){
-        cout<<"DRAW"<<endl;
-    }
-    else if(a==1 && x%2==0){
-        cout<<"BOB"<<endl;
-    }
-    else if(a==0 && x%2==1){
+    if(x==1){
         cout<<"BOB"<<endl;
     }
     else{
-        cout<<"ALICE"<<endl;
+        if(x%2==0)cout<<"BOB"<<endl;
+        else cout<<"ALICE"<<endl;
     }
 }
 int main()
