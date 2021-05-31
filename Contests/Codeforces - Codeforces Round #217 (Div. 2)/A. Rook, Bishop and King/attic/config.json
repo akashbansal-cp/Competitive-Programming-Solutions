@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #217 (Div. 2)/A. Rook, Bishop and King/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Rook, Bishop and King",
+      "group": "Codeforces - Codeforces Round #217 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/370/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

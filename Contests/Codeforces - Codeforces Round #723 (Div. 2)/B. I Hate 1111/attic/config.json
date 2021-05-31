@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #723 (Div. 2)/B. I Hate 1111/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. I Hate 1111",
+      "group": "Codeforces - Codeforces Round #723 (Div. 2)",
+      "url": "https://codeforces.com/contest/1526/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

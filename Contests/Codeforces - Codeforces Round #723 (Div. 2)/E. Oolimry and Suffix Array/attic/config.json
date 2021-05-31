@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #723 (Div. 2)/E. Oolimry and Suffix Array/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Oolimry and Suffix Array",
+      "group": "Codeforces - Codeforces Round #723 (Div. 2)",
+      "url": "https://codeforces.com/contest/1526/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

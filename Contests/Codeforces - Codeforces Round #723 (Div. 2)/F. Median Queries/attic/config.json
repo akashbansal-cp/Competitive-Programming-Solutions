@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #723 (Div. 2)/F. Median Queries/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Median Queries",
+      "group": "Codeforces - Codeforces Round #723 (Div. 2)",
+      "url": "https://codeforces.com/contest/1526/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 6000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #601 (Div. 2)/B. Fridge Lockers/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Fridge Lockers",
+      "group": "Codeforces - Codeforces Round #601 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1255/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
