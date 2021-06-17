@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/G. A New Beginning/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. A New Beginning",
+      "group": "Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contest/1534/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 5000
+    }
+  }
+}

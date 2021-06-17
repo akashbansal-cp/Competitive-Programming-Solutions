@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/H. Lost Nodes/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H. Lost Nodes",
+      "group": "Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contest/1534/problem/H",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

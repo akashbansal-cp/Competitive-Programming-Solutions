@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/F1. Falling Sand (Easy Version)/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/F1. Falling Sand (Easy Version)/Solution.cpp:30:30:[m[K [01;31m[Kerror: [m[Kunable to find character literal operator ‘[01m[Koperator""j[m[K’ with ‘[01m[Kchar[m[K’ argument
+   30 |                     cout<<i<<[01;31m[K' 'j[m[K<<endl;
+      |                              [01;31m[K^~~~[m[K

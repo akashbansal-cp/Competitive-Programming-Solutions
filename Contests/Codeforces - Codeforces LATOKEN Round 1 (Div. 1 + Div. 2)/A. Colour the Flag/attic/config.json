@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/A. Colour the Flag/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Colour the Flag",
+      "group": "Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contest/1534/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1500
+    }
+  }
+}

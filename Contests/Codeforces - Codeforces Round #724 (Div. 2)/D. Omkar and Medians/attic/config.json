@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #724 (Div. 2)/D. Omkar and Medians/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Omkar and Medians",
+      "group": "Codeforces - Codeforces Round #724 (Div. 2)",
+      "url": "https://codeforces.com/contest/1536/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - June Challenge 2021 Division 2 (Unrated)/Minimum Subtree Cover/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Minimum Subtree Cover",
+      "group": "CodeChef - June Challenge 2021 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/JUNE21B/problems/SUBTRCOV",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

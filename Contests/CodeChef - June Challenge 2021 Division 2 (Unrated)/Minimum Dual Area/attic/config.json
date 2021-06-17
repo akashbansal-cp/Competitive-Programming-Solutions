@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - June Challenge 2021 Division 2 (Unrated)/Minimum Dual Area/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Minimum Dual Area",
+      "group": "CodeChef - June Challenge 2021 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/JUNE21B/problems/DAREA",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #724 (Div. 2)/F. Omkar and Akmar/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Omkar and Akmar",
+      "group": "Codeforces - Codeforces Round #724 (Div. 2)",
+      "url": "https://codeforces.com/contest/1536/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

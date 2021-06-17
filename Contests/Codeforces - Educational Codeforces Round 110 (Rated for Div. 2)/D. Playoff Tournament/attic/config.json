@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Educational Codeforces Round 110 (Rated for Div. 2)/D. Playoff Tournament/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Playoff Tournament",
+      "group": "Codeforces - Educational Codeforces Round 110 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1535/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

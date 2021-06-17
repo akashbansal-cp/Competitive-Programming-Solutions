@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #724 (Div. 2)/C. Diluc and Kaeya/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Diluc and Kaeya",
+      "group": "Codeforces - Codeforces Round #724 (Div. 2)",
+      "url": "https://codeforces.com/contest/1536/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

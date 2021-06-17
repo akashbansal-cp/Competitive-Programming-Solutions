@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #725 (Div. 3)/G. Gift Set/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Gift Set",
+      "group": "Codeforces - Codeforces Round #725 (Div. 3)",
+      "url": "https://codeforces.com/contest/1538/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

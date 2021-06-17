@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #724 (Div. 2)/B. Prinzessin der Verurteilung/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Prinzessin der Verurteilung",
+      "group": "Codeforces - Codeforces Round #724 (Div. 2)",
+      "url": "https://codeforces.com/contest/1536/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

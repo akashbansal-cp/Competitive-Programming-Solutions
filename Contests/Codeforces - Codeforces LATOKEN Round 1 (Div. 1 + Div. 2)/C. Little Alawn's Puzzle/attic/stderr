@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/C. Little Alawn's Puzzle/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/C. Little Alawn's Puzzle/Solution.cpp:50:24:[m[K [01;31m[Kerror: [m[Ktoo many arguments to function ‘[01m[Klong long int power(long long int)[m[K’
+   50 |     cout<<power(2,cycle[01;31m[K)[m[K<<endl;
+      |                        [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)/C. Little Alawn's Puzzle/Solution.cpp:10:4:[m[K [01;36m[Knote: [m[Kdeclared here
+   10 | ll [01;36m[Kpower[m[K(ll cycle){
+      |    [01;36m[K^~~~~[m[K

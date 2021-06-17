@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Educational Codeforces Round 110 (Rated for Div. 2)/F. String Distance/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. String Distance",
+      "group": "Codeforces - Educational Codeforces Round 110 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1535/problem/F",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

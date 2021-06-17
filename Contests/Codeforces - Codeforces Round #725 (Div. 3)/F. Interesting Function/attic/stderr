@@ -1,0 +1,6 @@
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #725 (Div. 3)/F. Interesting Function/Solution.cpp:62:5:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kint main()[m[K’
+   62 | int [01;31m[Kmain[m[K()
+      |     [01;31m[K^~~~[m[K
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #725 (Div. 3)/F. Interesting Function/Solution.cpp:16:5:[m[K [01;36m[Knote: [m[K‘[01m[Kint main()[m[K’ previously defined here
+   16 | int [01;36m[Kmain[m[K()
+      |     [01;36m[K^~~~[m[K
