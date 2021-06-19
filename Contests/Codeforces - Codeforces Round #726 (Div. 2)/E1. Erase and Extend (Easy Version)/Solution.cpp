@@ -11,26 +11,31 @@ void solve()
 {
     int n,k;
     cin>>n>>k;
-    int p;
-    if(n%2==1 &&  k%2==0){
-        cout<<-1<<endl;return;
+    string s;
+    cin>>s;
+    int p=0;
+    for(int i=1;i<n;++i){
+        if(s[i] > s[p]){
+            p=i;
+            break;
+        }
     }
-    if((n%2==0 && k%2==0) || (n%2==0 && k%2==1)){
-        int p1=n/k;
-        if(n%k!=0)++p1;
-        if(p1%2==0)++p1;
-        int p2=n/(n-k);
-        if(n%(n-k)!=0)++p2;
-        if(p2%2==1)++p2;
-        if(n <= 2*k)p=p1;
-        else p=p2;
+    if(p!=0){
+        s=s.substr(0,p);
     }
-    else if(n%2==1 && k%2==1){
-        p=n/k;
-        if(n%k!=0)++p;
-        if(p%2==0)++p;
+    string str;
+    n=s.length();
+    for(int i=1;i<=n;++i){
+        string _s=s.substr(0,i);
+        int x=0;
+        string _p="";
+        for(int j=0;j<k;++j,++x){
+            _p+=_s[x%i];
+        }
+        if(i==1)str=_p;
+        else str=min(str,_p);
     }
-    
+    cout<<str<<endl;
 }
 int main()
 {
