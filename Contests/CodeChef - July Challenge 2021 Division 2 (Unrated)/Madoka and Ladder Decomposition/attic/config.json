@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - July Challenge 2021 Division 2 (Unrated)/Madoka and Ladder Decomposition/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Madoka and Ladder Decomposition",
+      "group": "CodeChef - July Challenge 2021 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/JULY21B/problems/LADCOMP",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

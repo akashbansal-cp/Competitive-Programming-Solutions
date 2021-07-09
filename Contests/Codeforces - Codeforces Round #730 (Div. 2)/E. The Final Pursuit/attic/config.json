@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #730 (Div. 2)/E. The Final Pursuit/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. The Final Pursuit",
+      "group": "Codeforces - Codeforces Round #730 (Div. 2)",
+      "url": "https://codeforces.com/contest/1543/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

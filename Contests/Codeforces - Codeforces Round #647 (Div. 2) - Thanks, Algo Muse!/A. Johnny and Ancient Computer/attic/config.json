@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!/A. Johnny and Ancient Computer/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Johnny and Ancient Computer",
+      "group": "Codeforces - Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!",
+      "url": "https://codeforces.com/contest/1362/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
