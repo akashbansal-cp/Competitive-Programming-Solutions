@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #732 (Div. 2)/C. AquaMoon and Strange Sort/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. AquaMoon and Strange Sort",
+      "group": "Codeforces - Codeforces Round #732 (Div. 2)",
+      "url": "https://codeforces.com/contest/1546/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

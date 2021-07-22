@@ -10,12 +10,19 @@ using namespace std;
 void solve()
 {
     int n,k;cin>>n>>k;
+    int x=0;
+    cout<<x<<endl;
     int r;
-    cout<<0<<endl;cin>>r;
-    if(r)return;
-    for(int i=0;i<20;++i){
-        
-    }    
+    cin>>r;
+    if(r==1)return;
+    for(int i=1;i<n;++i){
+        int p = (i^(i-1));
+        cout<<p<<endl;
+        cin>>r;
+        if(r==1){
+            return;
+        }
+    }
 }
 int main()
 {

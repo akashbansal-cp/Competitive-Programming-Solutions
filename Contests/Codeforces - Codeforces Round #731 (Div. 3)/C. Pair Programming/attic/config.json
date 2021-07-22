@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #731 (Div. 3)/C. Pair Programming/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Pair Programming",
+      "group": "Codeforces - Codeforces Round #731 (Div. 3)",
+      "url": "https://codeforces.com/contest/1547/problem/C",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

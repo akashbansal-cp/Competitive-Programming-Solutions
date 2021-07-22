@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #732 (Div. 2)/E. AquaMoon and Permutations/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. AquaMoon and Permutations",
+      "group": "Codeforces - Codeforces Round #732 (Div. 2)",
+      "url": "https://codeforces.com/contest/1546/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

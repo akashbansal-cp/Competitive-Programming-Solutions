@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #732 (Div. 2)/A. AquaMoon and Two Arrays/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. AquaMoon and Two Arrays",
+      "group": "Codeforces - Codeforces Round #732 (Div. 2)",
+      "url": "https://codeforces.com/contest/1546/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

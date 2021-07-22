@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #732 (Div. 2)/B. AquaMoon and Stolen String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. AquaMoon and Stolen String",
+      "group": "Codeforces - Codeforces Round #732 (Div. 2)",
+      "url": "https://codeforces.com/contest/1546/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #732 (Div. 2)/F. AquaMoon and Wrong Coordinate/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. AquaMoon and Wrong Coordinate",
+      "group": "Codeforces - Codeforces Round #732 (Div. 2)",
+      "url": "https://codeforces.com/contest/1546/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

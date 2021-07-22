@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #732 (Div. 1)/B. AquaMoon and Chess/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. AquaMoon and Chess",
+      "group": "Codeforces - Codeforces Round #732 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1545/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
