@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #738 (Div. 2)/E. Mocha and Stars/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Mocha and Stars",
+      "group": "Codeforces - Codeforces Round #738 (Div. 2)",
+      "url": "https://codeforces.com/contest/1559/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

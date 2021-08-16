@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - August Challenge 2021 Division 2 (Unrated)/Geometry 1/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Geometry 1",
+      "group": "CodeChef - August Challenge 2021 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/AUG21B/problems/GEO1",
+      "memoryLimit": 256,
+      "timeLimit": 1500
+    }
+  }
+}

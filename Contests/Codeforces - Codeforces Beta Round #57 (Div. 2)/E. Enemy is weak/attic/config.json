@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Beta Round #57 (Div. 2)/E. Enemy is weak/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Enemy is weak",
+      "group": "Codeforces - Codeforces Beta Round #57 (Div. 2)",
+      "url": "https://codeforces.com/contest/61/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 5000
+    }
+  }
+}

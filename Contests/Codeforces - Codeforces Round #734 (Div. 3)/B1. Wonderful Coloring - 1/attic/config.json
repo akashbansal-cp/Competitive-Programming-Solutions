@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #734 (Div. 3)/B1. Wonderful Coloring - 1/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B1. Wonderful Coloring - 1",
+      "group": "Codeforces - Codeforces Round #734 (Div. 3)",
+      "url": "https://codeforces.com/contest/1551/problem/B1",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

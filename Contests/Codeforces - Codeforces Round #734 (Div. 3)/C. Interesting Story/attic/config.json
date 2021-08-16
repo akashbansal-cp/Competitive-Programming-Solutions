@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #734 (Div. 3)/C. Interesting Story/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Interesting Story",
+      "group": "Codeforces - Codeforces Round #734 (Div. 3)",
+      "url": "https://codeforces.com/contest/1551/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

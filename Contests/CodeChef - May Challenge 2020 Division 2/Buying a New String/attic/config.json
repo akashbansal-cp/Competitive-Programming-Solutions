@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - May Challenge 2020 Division 2/Buying a New String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Buying a New String",
+      "group": "CodeChef - May Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/MAY20B/problems/TWOSTRS",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

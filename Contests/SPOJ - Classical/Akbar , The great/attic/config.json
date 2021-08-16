@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/SPOJ - Classical/Akbar , The great/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Akbar , The great",
+      "group": "SPOJ - Classical",
+      "url": "https://www.spoj.com/problems/AKBAR/",
+      "memoryLimit": 1536,
+      "timeLimit": 1000
+    }
+  }
+}

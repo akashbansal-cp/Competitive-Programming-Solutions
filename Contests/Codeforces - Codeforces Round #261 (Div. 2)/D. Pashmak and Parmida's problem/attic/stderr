@@ -1,0 +1,5 @@
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #261 (Div. 2)/D. Pashmak and Parmida's problem/Solution.cpp:[m[K In function ‘[01m[Kvoid build(std::vector<int>&)[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #261 (Div. 2)/D. Pashmak and Parmida's problem/Solution.cpp:15:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kmodify[m[K’ was not declared in this scope; did you mean ‘[01m[Kmodfl[m[K’?
+   15 |         [01;31m[Kmodify[m[K(e,1);
+      |         [01;31m[K^~~~~~[m[K
+      |         [32m[Kmodfl[m[K

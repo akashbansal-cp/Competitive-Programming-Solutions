@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #736 (Div. 2)/F2. Gregor and the Odd Cows (Hard)/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F2. Gregor and the Odd Cows (Hard)",
+      "group": "Codeforces - Codeforces Round #736 (Div. 2)",
+      "url": "https://codeforces.com/contest/1549/problem/F2",
+      "memoryLimit": 256,
+      "timeLimit": 6000
+    }
+  }
+}

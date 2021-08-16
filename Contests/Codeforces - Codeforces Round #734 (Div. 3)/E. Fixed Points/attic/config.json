@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #734 (Div. 3)/E. Fixed Points/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Fixed Points",
+      "group": "Codeforces - Codeforces Round #734 (Div. 3)",
+      "url": "https://codeforces.com/contest/1551/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

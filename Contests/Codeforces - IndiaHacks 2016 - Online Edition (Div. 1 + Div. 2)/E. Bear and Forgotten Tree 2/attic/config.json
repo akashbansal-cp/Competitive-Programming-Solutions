@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2)/E. Bear and Forgotten Tree 2/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Bear and Forgotten Tree 2",
+      "group": "Codeforces - IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2)",
+      "url": "http://codeforces.com/contest/653/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

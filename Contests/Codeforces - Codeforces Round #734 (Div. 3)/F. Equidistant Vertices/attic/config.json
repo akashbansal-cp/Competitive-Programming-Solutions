@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #734 (Div. 3)/F. Equidistant Vertices/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Equidistant Vertices",
+      "group": "Codeforces - Codeforces Round #734 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1551/F",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

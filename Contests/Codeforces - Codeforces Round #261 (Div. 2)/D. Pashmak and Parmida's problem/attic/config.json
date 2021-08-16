@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #261 (Div. 2)/D. Pashmak and Parmida's problem/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Pashmak and Parmida's problem",
+      "group": "Codeforces - Codeforces Round #261 (Div. 2)",
+      "url": "https://codeforces.com/contest/459/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

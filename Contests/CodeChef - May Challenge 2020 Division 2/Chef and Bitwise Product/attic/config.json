@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - May Challenge 2020 Division 2/Chef and Bitwise Product/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Chef and Bitwise Product",
+      "group": "CodeChef - May Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/MAY20B/problems/CHANDF",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

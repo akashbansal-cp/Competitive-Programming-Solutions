@@ -1,0 +1,17 @@
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:[m[K In function ‘[01m[Kbool KMPSearch(std::string, std::string)[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:24:21:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kstd::string[m[K’ {aka ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’} to ‘[01m[Kchar*[m[K’
+   24 |     computeLPSArray([01;31m[Kpat[m[K, M, lps);
+      |                     [01;31m[K^~~[m[K
+      |                     [01;31m[K|[m[K
+      |                     [01;31m[Kstd::string {aka std::__cxx11::basic_string<char>}[m[K
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:11:28:[m[K [01;36m[Knote: [m[K  initializing argument 1 of ‘[01m[Kvoid computeLPSArray(char*, int, int*)[m[K’
+   11 | void computeLPSArray([01;36m[Kchar* pat[m[K, int M, int* lps);
+      |                      [01;36m[K~~~~~~^~~[m[K
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:[m[K In function ‘[01m[Kbool check(std::string, std::string)[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:89:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   89 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:[m[K In function ‘[01m[Kbool KMPSearch(std::string, std::string)[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)/B. Reverse String/Solution.cpp:49:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   49 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K

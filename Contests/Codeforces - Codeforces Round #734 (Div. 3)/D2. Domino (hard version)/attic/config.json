@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #734 (Div. 3)/D2. Domino (hard version)/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D2. Domino (hard version)",
+      "group": "Codeforces - Codeforces Round #734 (Div. 3)",
+      "url": "https://codeforces.com/contest/1551/problem/D2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

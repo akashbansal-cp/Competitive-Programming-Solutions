@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - May Challenge 2020 Division 2/Precise Pairing/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Precise Pairing",
+      "group": "CodeChef - May Challenge 2020 Division 2",
+      "url": "https://www.codechef.com/MAY20B/problems/PRECPAIR",
+      "memoryLimit": 256,
+      "timeLimit": 5000
+    }
+  }
+}
