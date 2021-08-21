@@ -8,56 +8,42 @@
 #define fio ios_base::sync_with_stdio(false);cin.tie(NULL);
 #include <bits/stdc++.h>
 using namespace std;
-vector<int> getComp(int n,vector<vector<int>> edges){
-    queue<int> q;
-    vector<bool> visited(n,false);
-    vector<int> comp(n,-1);
-    vector<int> par(n);
-    par[0]=-1;
-    int cc=1;
-    for(int i=0;i<n;++i){
-        if(visited[i]==false){
-            visited[i]=true;
-            comp[i]=cc;
-            q.push(i);
-            while(q.empty()==false){
-                int x=q.front();
-                q.pop();
-                for(int e:edges[x]){
-                    if(par[x]!=e && visited[e]==false){
-                        par[e]=x;
-                        visited[e]=true;
-                        comp[e]=cc;
-                        q.push(e);
-                    }
-                }
-            }
-            ++cc;
-        }
-    }
-    return comp;
+int s[2][1002];
+int find(int idx,int v){
+    if(s[idx][v]!=v)return s[idx][v]=find(idx,s[idx][v]);
+    return v;
 }
-void solve()
-{
-    int n;cin>>n;
-    int m1,m2;cin>>m1>>m2;
-    vector<vector<int>> e1(n),e2(n);
+void join(int idx,int u,int v){
+    u=find(idx,u);
+    v=find(idx,v);
+    s[idx][v]=u;
+}
+void solve(){
+    for(int i=0;i<1002;++i)s[0][i]=i,s[1][i]=i;
+    int n,m1,m2;cin>>n>>m1>>m2;
     int u,v;
     for(int i=0;i<m1;++i){
         cin>>u>>v;
-        e1[u-1].push_back(v-1);
-        e1[v-1].push_back(u-1);
+        join(0,u,v);
     }
     for(int i=0;i<m2;++i){
         cin>>u>>v;
-        e2[u-1].push_back(v-1);
-        e2[v-1].push_back(u-1);
+        join(1,u,v);
     }
-    vector<int> c1=getComp(n,e1);
-    vector<int> c2=getComp(n,e2);
-    // for(int e:c1)cout<<e<<' ';cout<<endl;
-    // for(int e:c2)cout<<e<<' ';cout<<endl;
-    
+    vector<pair<int,int>> ans;
+    for(int i=1;i<=n;++i){
+        for(int j=i+1;j<=n;++j){
+            if(find(0,i)!=find(0,j) && find(1,i)!=find(1,j)){
+                ans.push_back({i,j});
+                join(0,i,j);
+                join(1,i,j);
+            }
+        }
+    }
+    cout<<ans.size()<<endl;
+    for(auto e:ans){
+        cout<<e.first<<' '<<e.second<<endl;
+    }
 }
 int main()
 {

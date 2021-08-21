@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #739 (Div. 3)/A. Dislike of Threes/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Dislike of Threes",
+      "group": "Codeforces - Codeforces Round #739 (Div. 3)",
+      "url": "https://codeforces.com/contest/1560/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

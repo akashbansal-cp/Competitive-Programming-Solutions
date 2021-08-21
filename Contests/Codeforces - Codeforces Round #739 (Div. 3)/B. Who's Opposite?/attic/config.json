@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #739 (Div. 3)/B. Who's Opposite?/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Who's Opposite?",
+      "group": "Codeforces - Codeforces Round #739 (Div. 3)",
+      "url": "https://codeforces.com/contest/1560/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
