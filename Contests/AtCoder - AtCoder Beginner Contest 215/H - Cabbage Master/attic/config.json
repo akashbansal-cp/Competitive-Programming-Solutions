@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/AtCoder - AtCoder Beginner Contest 215/H - Cabbage Master/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H - Cabbage Master",
+      "group": "AtCoder - AtCoder Beginner Contest 215",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_h",
+      "memoryLimit": 1024,
+      "timeLimit": 3000
+    }
+  }
+}

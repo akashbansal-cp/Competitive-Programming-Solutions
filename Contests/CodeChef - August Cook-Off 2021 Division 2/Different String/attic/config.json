@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - August Cook-Off 2021 Division 2/Different String/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Different String",
+      "group": "CodeChef - August Cook-Off 2021 Division 2",
+      "url": "https://www.codechef.com/COOK132B/problems/DIFSTR",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

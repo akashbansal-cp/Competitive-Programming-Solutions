@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #740 (Div. 2, based on VK Cup 2021 - Final (Engine))/A. Simply Strange Sort/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Simply Strange Sort",
+      "group": "Codeforces - Codeforces Round #740 (Div. 2, based on VK Cup 2021 - Final (Engine))",
+      "url": "https://codeforces.com/contest/1561/problem/A",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}
