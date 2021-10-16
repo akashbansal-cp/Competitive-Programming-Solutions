@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Qualifiers/Maximum Number Of Distinct Elements/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Maximum Number Of Distinct Elements",
+      "group": "CodeChef - SnackDown 2021 - Online Qualifiers",
+      "url": "https://www.codechef.com/SNCKQL21/problems/MAXDISTKT",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

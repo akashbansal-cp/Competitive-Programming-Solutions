@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/AtCoder - AtCoder Beginner Contest 218/B - qwerty/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B - qwerty",
+      "group": "AtCoder - AtCoder Beginner Contest 218",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_b",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

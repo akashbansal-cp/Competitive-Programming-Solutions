@@ -11,28 +11,28 @@ void solve()
 {
     int n;
     cin>>n;
-    vector<ll> potion(n,0);
-    for(int i=0;i<n;++i)cin>>potion[i];
-    vector<vector<ll>> dp(n);
-    dp[n-1]={0,potion[n-1]};
-    for(int i=n-2;i>=0;--i){
-        dp[i].resize(n-i+1);
-        dp[i][0]=0;
-        for(int j=1;j<n-i;++j){
-            dp[i][j]=max(dp[i+1][j-1]+potion[i],dp[i+1][j]);
+    vector<ll> data(n);
+    for(int i=0;i<n;++i)cin>>data[i];
+    ll s=0;
+    int x=0;
+    multiset<ll> d;
+    for(int i=0;i<n;++i){
+        if(s+data[i] >= 0){
+            if(data[i] < 0)
+                d.insert(data[i]);
+            s+=data[i];
+            ++x;
         }
-        dp[i][n-i]=dp[i+1][n-i-1]+potion[i];
-    }
-    // for(auto e:dp){
-    //     for(auto f:e)cout<<f<<' ';
-    //     cout<<endl;
-    // }
-    for(int i=dp[0].size()-1;i>=0;--i){
-        if(dp[0][i]>=0){
-            cout<<i<<endl;
-            return;
+        else{
+            if(*d.begin() < data[i]){
+                s-=(*d.begin());
+                s+=data[i];
+                d.erase(d.begin());
+                d.insert(data[i]);
+            }
         }
     }
+    cout<<x<<endl;
 }
 int main()
 {

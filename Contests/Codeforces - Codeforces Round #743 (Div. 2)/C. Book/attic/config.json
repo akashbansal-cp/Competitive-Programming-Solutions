@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #743 (Div. 2)/C. Book/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Book",
+      "group": "Codeforces - Codeforces Round #743 (Div. 2)",
+      "url": "https://codeforces.com/contest/1573/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1500
+    }
+  }
+}

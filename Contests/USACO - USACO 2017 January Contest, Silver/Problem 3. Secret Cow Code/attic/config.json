@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/USACO - USACO 2017 January Contest, Silver/Problem 3. Secret Cow Code/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Problem 3. Secret Cow Code",
+      "group": "USACO - USACO 2017 January Contest, Silver",
+      "url": "http://usaco.org/index.php?page=viewproblem2&cpid=692",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

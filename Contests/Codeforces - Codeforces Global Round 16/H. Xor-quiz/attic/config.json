@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Global Round 16/H. Xor-quiz/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H. Xor-quiz",
+      "group": "Codeforces - Codeforces Global Round 16",
+      "url": "https://codeforces.com/contest/1566/problem/H",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

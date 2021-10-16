@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/AtCoder - AtCoder Regular Contest 127/D - Sum of Min of Xor/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D - Sum of Min of Xor",
+      "group": "AtCoder - AtCoder Regular Contest 127",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_d",
+      "memoryLimit": 1024,
+      "timeLimit": 5000
+    }
+  }
+}

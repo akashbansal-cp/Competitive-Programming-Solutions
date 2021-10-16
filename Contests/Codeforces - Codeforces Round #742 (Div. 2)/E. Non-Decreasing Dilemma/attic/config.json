@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #742 (Div. 2)/E. Non-Decreasing Dilemma/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Non-Decreasing Dilemma",
+      "group": "Codeforces - Codeforces Round #742 (Div. 2)",
+      "url": "https://codeforces.com/contest/1567/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

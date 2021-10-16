@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #748 (Div. 3)/B. Make it Divisible by 25/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Make it Divisible by 25",
+      "group": "Codeforces - Codeforces Round #748 (Div. 3)",
+      "url": "https://codeforces.com/contest/1593/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #747 (Div. 2)/D. The Number of Imposters/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. The Number of Imposters",
+      "group": "Codeforces - Codeforces Round #747 (Div. 2)",
+      "url": "https://codeforces.com/contest/1594/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Global Round 16/E. Buds Re-hanging/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Buds Re-hanging",
+      "group": "Codeforces - Codeforces Global Round 16",
+      "url": "https://codeforces.com/problemset/problem/1566/E",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

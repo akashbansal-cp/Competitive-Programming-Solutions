@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Qualifiers/Lucky Number/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Lucky Number",
+      "group": "CodeChef - SnackDown 2021 - Online Qualifiers",
+      "url": "https://www.codechef.com/SNCKQL21/problems/LUCKYNUM",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}

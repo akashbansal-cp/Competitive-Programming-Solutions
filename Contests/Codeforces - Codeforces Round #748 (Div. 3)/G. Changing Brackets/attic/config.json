@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #748 (Div. 3)/G. Changing Brackets/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Changing Brackets",
+      "group": "Codeforces - Codeforces Round #748 (Div. 3)",
+      "url": "https://codeforces.com/contest/1593/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

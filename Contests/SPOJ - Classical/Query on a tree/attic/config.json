@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/SPOJ - Classical/Query on a tree/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Query on a tree",
+      "group": "SPOJ - Classical",
+      "url": "https://www.spoj.com/problems/QTREE/",
+      "memoryLimit": 1536,
+      "timeLimit": 1000
+    }
+  }
+}

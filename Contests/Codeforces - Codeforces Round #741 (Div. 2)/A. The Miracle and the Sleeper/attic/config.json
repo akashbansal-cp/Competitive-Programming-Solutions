@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #741 (Div. 2)/A. The Miracle and the Sleeper/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. The Miracle and the Sleeper",
+      "group": "Codeforces - Codeforces Round #741 (Div. 2)",
+      "url": "https://codeforces.com/contest/1562/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

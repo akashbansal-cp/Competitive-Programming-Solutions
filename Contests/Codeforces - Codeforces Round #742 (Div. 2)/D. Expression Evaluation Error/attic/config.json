@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #742 (Div. 2)/D. Expression Evaluation Error/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Expression Evaluation Error",
+      "group": "Codeforces - Codeforces Round #742 (Div. 2)",
+      "url": "https://codeforces.com/contest/1567/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

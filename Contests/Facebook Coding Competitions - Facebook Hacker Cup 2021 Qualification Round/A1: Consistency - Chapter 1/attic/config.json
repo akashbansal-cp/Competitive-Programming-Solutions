@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Facebook Coding Competitions - Facebook Hacker Cup 2021 Qualification Round/A1: Consistency - Chapter 1/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A1: Consistency - Chapter 1",
+      "group": "Facebook Coding Competitions - Facebook Hacker Cup 2021 Qualification Round",
+      "url": "https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/A1",
+      "memoryLimit": 1024,
+      "timeLimit": 360000
+    }
+  }
+}

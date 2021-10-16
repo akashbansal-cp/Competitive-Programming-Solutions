@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #748 (Div. 3)/F. Red-Black Number/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Red-Black Number",
+      "group": "Codeforces - Codeforces Round #748 (Div. 3)",
+      "url": "https://codeforces.com/contest/1593/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

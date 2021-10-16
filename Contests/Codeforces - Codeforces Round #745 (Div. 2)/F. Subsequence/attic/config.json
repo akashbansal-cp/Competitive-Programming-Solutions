@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #745 (Div. 2)/F. Subsequence/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Subsequence",
+      "group": "Codeforces - Codeforces Round #745 (Div. 2)",
+      "url": "https://codeforces.com/contest/1581/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

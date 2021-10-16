@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)/F. Sports Betting/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Sports Betting",
+      "group": "Codeforces - Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contest/1556/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

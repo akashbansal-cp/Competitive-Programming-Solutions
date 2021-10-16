@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #745 (Div. 2)/E. Train Maintenance/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Train Maintenance",
+      "group": "Codeforces - Codeforces Round #745 (Div. 2)",
+      "url": "https://codeforces.com/contest/1581/problem/E",
+      "memoryLimit": 512,
+      "timeLimit": 1000
+    }
+  }
+}

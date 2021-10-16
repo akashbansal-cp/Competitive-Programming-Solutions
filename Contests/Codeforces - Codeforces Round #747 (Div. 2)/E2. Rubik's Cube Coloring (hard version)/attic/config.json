@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #747 (Div. 2)/E2. Rubik's Cube Coloring (hard version)/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E2. Rubik's Cube Coloring (hard version)",
+      "group": "Codeforces - Codeforces Round #747 (Div. 2)",
+      "url": "https://codeforces.com/contest/1594/problem/E2",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

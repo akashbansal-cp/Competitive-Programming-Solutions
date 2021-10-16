@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/AtCoder - AtCoder Regular Contest 127/B - Ternary Strings/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B - Ternary Strings",
+      "group": "AtCoder - AtCoder Regular Contest 127",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_b",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}

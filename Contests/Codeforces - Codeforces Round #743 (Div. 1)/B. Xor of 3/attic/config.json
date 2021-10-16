@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #743 (Div. 1)/B. Xor of 3/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Xor of 3",
+      "group": "Codeforces - Codeforces Round #743 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/1572/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

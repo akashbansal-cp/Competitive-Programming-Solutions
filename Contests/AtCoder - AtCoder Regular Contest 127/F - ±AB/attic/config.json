@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/AtCoder - AtCoder Regular Contest 127/F - ±AB/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F - ±AB",
+      "group": "AtCoder - AtCoder Regular Contest 127",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_f",
+      "memoryLimit": 1024,
+      "timeLimit": 8000
+    }
+  }
+}

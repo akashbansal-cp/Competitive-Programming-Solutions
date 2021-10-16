@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - August Lunchtime 2021 Division 2/Chef and Deque/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Chef and Deque",
+      "group": "CodeChef - August Lunchtime 2021 Division 2",
+      "url": "https://www.codechef.com/LTIME99B/problems/CHEFDQE",
+      "memoryLimit": 256,
+      "timeLimit": 1500
+    }
+  }
+}

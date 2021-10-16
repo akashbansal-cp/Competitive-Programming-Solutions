@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/AtCoder - AtCoder Regular Contest 126/E - Infinite Operations/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E - Infinite Operations",
+      "group": "AtCoder - AtCoder Regular Contest 126",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_e",
+      "memoryLimit": 1024,
+      "timeLimit": 5000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Qualifiers/Minimise Difference/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Minimise Difference",
+      "group": "CodeChef - SnackDown 2021 - Online Qualifiers",
+      "url": "https://www.codechef.com/SNCKQL21/problems/MINDIFF1",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Educational Codeforces Round 115 (Rated for Div. 2)/F. RBS/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. RBS",
+      "group": "Codeforces - Educational Codeforces Round 115 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1598/problem/F",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

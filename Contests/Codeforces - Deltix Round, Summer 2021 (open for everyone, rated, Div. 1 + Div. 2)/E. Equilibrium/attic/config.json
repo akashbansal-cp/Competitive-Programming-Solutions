@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)/E. Equilibrium/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Equilibrium",
+      "group": "Codeforces - Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1556/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

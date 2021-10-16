@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Qualifiers/Prefix as a Substring 2/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Prefix as a Substring 2",
+      "group": "CodeChef - SnackDown 2021 - Online Qualifiers",
+      "url": "https://www.codechef.com/SNCKQL21/problems/SSTRPREF2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

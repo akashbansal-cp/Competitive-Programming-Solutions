@@ -1,0 +1,7 @@
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #743 (Div. 2)/A. Countdown/Solution.cpp:[m[K In function ‘[01m[Kvoid solve()[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #743 (Div. 2)/A. Countdown/Solution.cpp:15:9:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kint p[m[K’
+   15 |     int [01;31m[Kp[m[K=0;
+      |         [01;31m[K^[m[K
+[01m[K/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #743 (Div. 2)/A. Countdown/Solution.cpp:13:11:[m[K [01;36m[Knote: [m[K‘[01m[Kint p[m[K’ previously declared here
+   13 |     int n,[01;36m[Kp[m[K=0;cin>>n;
+      |           [01;36m[K^[m[K

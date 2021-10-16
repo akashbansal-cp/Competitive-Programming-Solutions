@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Educational Codeforces Round 113 (Rated for Div. 2)/D. Inconvenient Pairs/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Inconvenient Pairs",
+      "group": "Codeforces - Educational Codeforces Round 113 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1569/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[01m[K/home/akash/Documents/CP/Contests/AtCoder - Sciseed Programming Contest 2021（AtCoder Beginner Contest 219）/C - Neo-lexicographic Ordering/Solution.cpp:[m[K In function ‘[01m[Kbool cmpr(std::string&, std::string&)[m[K’:
+[01m[K/home/akash/Documents/CP/Contests/AtCoder - Sciseed Programming Contest 2021（AtCoder Beginner Contest 219）/C - Neo-lexicographic Ordering/Solution.cpp:15:12:[m[K [01;31m[Kerror: [m[K‘[01m[Kd[m[K’ was not declared in this scope
+   15 |         if([01;31m[Kd[m[K[s1[i]-'a'] < d[s2[i]-'a'])return true;
+      |            [01;31m[K^[m[K

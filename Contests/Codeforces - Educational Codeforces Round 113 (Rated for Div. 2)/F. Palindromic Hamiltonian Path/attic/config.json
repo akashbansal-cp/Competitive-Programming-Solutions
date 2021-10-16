@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Educational Codeforces Round 113 (Rated for Div. 2)/F. Palindromic Hamiltonian Path/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Palindromic Hamiltonian Path",
+      "group": "Codeforces - Educational Codeforces Round 113 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1569/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 5000
+    }
+  }
+}

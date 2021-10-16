@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - September Cook-Off 2021 Division 1/Adjacency Hatred/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Adjacency Hatred",
+      "group": "CodeChef - September Cook-Off 2021 Division 1",
+      "url": "https://www.codechef.com/COOK133A/problems/ADJHATE",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
