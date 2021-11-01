@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Google Coding Competitions - Round G 2021 - Kick Start 2021/Dogs and Cats/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Dogs and Cats",
+      "group": "Google Coding Competitions - Round G 2021 - Kick Start 2021",
+      "url": "https://codingcompetitions.withgoogle.com/kickstart/round/00000000004362d6/00000000008b3771",
+      "memoryLimit": 1024,
+      "timeLimit": 20000
+    }
+  }
+}

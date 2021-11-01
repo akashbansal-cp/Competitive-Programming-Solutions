@@ -10,10 +10,6 @@
 using namespace std;
 void solve()
 {
-    int n;cin>>n;
-    vector<int> d(n);
-    for(int i=0;i<n;++i)cin>>d[i];
-    
 }
 int main()
 {

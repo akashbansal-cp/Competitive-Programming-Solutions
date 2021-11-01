@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/Codeforces - Codeforces Round #750 (Div. 2)/B. Luntik and Subsequences/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Luntik and Subsequences",
+      "group": "Codeforces - Codeforces Round #750 (Div. 2)",
+      "url": "https://codeforces.com/contest/1582/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

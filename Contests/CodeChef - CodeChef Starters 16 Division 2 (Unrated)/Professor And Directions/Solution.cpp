@@ -11,9 +11,14 @@ using namespace std;
 void solve()
 {
     int n;cin>>n;
-    vector<int> d(n);
-    for(int i=0;i<n;++i)cin>>d[i];
-    
+    string s;cin>>s;
+    for(int i=0;i<n-1;++i){
+        if((s[i]=='L'&&s[i+1]=='L') || (s[i]=='R'&&s[i+1]=='R')){
+            cout<<"YES\n";
+            return;
+        }
+    }
+    cout<<"NO\n";
 }
 int main()
 {

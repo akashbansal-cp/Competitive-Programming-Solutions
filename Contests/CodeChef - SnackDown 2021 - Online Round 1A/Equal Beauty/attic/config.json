@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Round 1A/Equal Beauty/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Equal Beauty",
+      "group": "CodeChef - SnackDown 2021 - Online Round 1A",
+      "url": "https://www.codechef.com/SNCK1A21/problems/EQBEAUTY",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

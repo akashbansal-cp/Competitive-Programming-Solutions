@@ -10,10 +10,11 @@
 using namespace std;
 void solve()
 {
-    int n;cin>>n;
-    vector<int> d(n);
-    for(int i=0;i<n;++i)cin>>d[i];
-    
+    ll x,y;
+    cin>>x>>y;
+    ll p=x*y;
+    p*=(p-1);
+    cout<<x*2<<' '<<p<<endl;
 }
 int main()
 {

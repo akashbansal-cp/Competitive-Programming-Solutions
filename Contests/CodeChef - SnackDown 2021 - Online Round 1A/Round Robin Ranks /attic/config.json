@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Round 1A/Round Robin Ranks /Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Round Robin Ranks ",
+      "group": "CodeChef - SnackDown 2021 - Online Round 1A",
+      "url": "https://www.codechef.com/SNCK1A21/problems/RRR",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

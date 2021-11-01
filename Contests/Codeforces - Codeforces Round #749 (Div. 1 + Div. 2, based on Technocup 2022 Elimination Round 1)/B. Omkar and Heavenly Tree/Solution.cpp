@@ -10,9 +10,23 @@
 using namespace std;
 void solve()
 {
-    int n;cin>>n;
-    vector<int> d(n);
-    for(int i=0;i<n;++i)cin>>d[i];
+    int n,m;cin>>n>>m;
+    set<int> p;
+    int a,b,c;
+    for(int i=0;i<m;++i){
+        cin>>a>>b>>c;
+        p.insert(b);
+    }
+    int x;
+    for(int i=1;i<=n;++i){
+        if(p.find(i)==p.end()){
+            x=i;
+            break;
+        }
+    }
+    for(int i=1;i<=n;++i){
+        if(i!=x)cout<<x<<' '<<i<<endl;
+    }
     
 }
 int main()

@@ -10,6 +10,24 @@
 using namespace std;
 void solve()
 {
+    int n;cin>>n;
+    vector<int> d(n);
+    for(int i=0;i<n;++i)cin>>d[i];
+    map<int,vector<int>> data;
+    for(int i=0;i<n;++i)data[d[i]].push_back(i);
+    vector<int> ans(n);
+    int c=0;
+    for(auto e : data){
+        for(int i=0;i<e.second.size();++i){
+            if(c < e.first){
+                ans[e.second[i]]=c;
+                ++c;
+            }
+            else ans[e.second[i]]=c;
+        }
+    }
+    for(int i=0;i<n;++i)cout<<ans[i]<<' ';
+    cout<<endl;
 }
 int main()
 {

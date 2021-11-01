@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - SnackDown 2021 - Online Round 1A/Lazy Machine/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Lazy Machine",
+      "group": "CodeChef - SnackDown 2021 - Online Round 1A",
+      "url": "https://www.codechef.com/SNCK1A21/problems/LAZYMACHINE",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

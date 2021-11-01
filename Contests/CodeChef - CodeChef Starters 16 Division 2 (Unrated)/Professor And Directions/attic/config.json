@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - CodeChef Starters 16 Division 2 (Unrated)/Professor And Directions/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Professor And Directions",
+      "group": "CodeChef - CodeChef Starters 16 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/START16B/problems/DIRECTN",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}

@@ -10,10 +10,15 @@
 using namespace std;
 void solve()
 {
-    int n;cin>>n;
-    vector<int> d(n);
-    for(int i=0;i<n;++i)cin>>d[i];
-    
+    int x,y;cin>>x>>y;
+    if(y <= x){
+        cout<<x-y<<endl;
+    }
+    else{
+        x=abs(y-x);
+        if(x%2==1)x+=3;
+        cout<<x/2<<endl;
+    }
 }
 int main()
 {

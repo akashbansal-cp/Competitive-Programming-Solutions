@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - CodeChef Starters 16 Division 2 (Unrated)/Pass or Fail/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Pass or Fail",
+      "group": "CodeChef - CodeChef Starters 16 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/START16B/problems/PASSORFAIL",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Contests/CodeChef - CodeChef Starters 16 Division 2 (Unrated)/Chef And Salary Pay/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Chef And Salary Pay",
+      "group": "CodeChef - CodeChef Starters 16 Division 2 (Unrated)",
+      "url": "https://www.codechef.com/START16B/problems/HCAGMAM1",
+      "memoryLimit": 256,
+      "timeLimit": 500
+    }
+  }
+}
