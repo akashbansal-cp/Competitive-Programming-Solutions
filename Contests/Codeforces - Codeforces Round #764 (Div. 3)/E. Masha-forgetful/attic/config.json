@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Competitive-Programming-Solutions/Contests/Codeforces - Codeforces Round #764 (Div. 3)/E. Masha-forgetful/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Masha-forgetful",
+      "group": "Codeforces - Codeforces Round #764 (Div. 3)",
+      "url": "http://codeforces.com/contest/1624/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}

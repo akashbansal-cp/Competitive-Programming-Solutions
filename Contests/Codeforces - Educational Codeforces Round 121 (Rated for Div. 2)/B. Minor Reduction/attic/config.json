@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Competitive-Programming-Solutions/Contests/Codeforces - Educational Codeforces Round 121 (Rated for Div. 2)/B. Minor Reduction/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Minor Reduction",
+      "group": "Codeforces - Educational Codeforces Round 121 (Rated for Div. 2)",
+      "url": "http://codeforces.com/contest/1626/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

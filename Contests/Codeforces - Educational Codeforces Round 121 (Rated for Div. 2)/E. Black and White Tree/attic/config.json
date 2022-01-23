@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Competitive-Programming-Solutions/Contests/Codeforces - Educational Codeforces Round 121 (Rated for Div. 2)/E. Black and White Tree/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Black and White Tree",
+      "group": "Codeforces - Educational Codeforces Round 121 (Rated for Div. 2)",
+      "url": "http://codeforces.com/contest/1626/problem/E",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

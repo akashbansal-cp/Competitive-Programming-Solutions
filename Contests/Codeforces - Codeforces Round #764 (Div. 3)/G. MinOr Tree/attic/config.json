@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/akash/Documents/CP/Competitive-Programming-Solutions/Contests/Codeforces - Codeforces Round #764 (Div. 3)/G. MinOr Tree/Solution.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. MinOr Tree",
+      "group": "Codeforces - Codeforces Round #764 (Div. 3)",
+      "url": "http://codeforces.com/contest/1624/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
